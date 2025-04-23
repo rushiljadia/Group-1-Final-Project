@@ -4,6 +4,8 @@
 
 **Group Members: Arnav Sareen, Bita Ghaffari, Carter Leonard, Rushil Jadia, Sindhu Gadiraju, Sogol Maghzian**
 
+## How to install the .venv file:
+
 ### Clone the repo
 git clone <your-repo-url>
 cd <your-repo-name>
