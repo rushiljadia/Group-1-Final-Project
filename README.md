@@ -7,14 +7,28 @@
 ## How to install the .venv file:
 
 ### Clone the repo
+```
 git clone <your-repo-url>
 cd <your-repo-name>
+```
 
 ### Create a virtual environment (Mac/Linux)
+```
 python3 -m venv .venv
+```
 
 ### Activate the virtual environment
-source .venv/bin/activate
 
+Mac:
+```
+source .venv/bin/activate
+```
+
+Windows:
+```
+.venv/Scripts/activate
+```
 ### Install dependencies
+```
 pip install -r requirements.txt
+```
